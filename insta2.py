@@ -461,8 +461,8 @@ if ahmed == 1:
 
         check()
 if ahmed == 2:
-    tok = input(O + 'Token Bot : ' + X)
-    id = input(O + 'ID Telegram : ' + X)
+    tok = input(O + 'Token Bot : 7366706613:AAHx8fkIiGabXMpSXGh1vQS1FFQ8UH97NuY' + X)
+    id = input(O + 'ID Telegram : 5022119245' + X)
     os.system('clear')
     print(M + '...')
     os.system('clear')
